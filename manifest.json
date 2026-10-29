@@ -1,6 +1,6 @@
 {
-    "name": "github_io",
-    "short_name": "github_io",
+    "name": "batukoll_github_io",
+    "short_name": "batukoll_github_io",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
